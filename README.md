@@ -14,3 +14,5 @@ old PDF. However there are new chapters.
 
 The text and exercises of the old PDF version are available online at the
 [NYU site](https://physics.nyu.edu/pine/pymanual/html/pymanMaster.html).
+
+There are some code and comments in Portuguese since I am from Brazil.
