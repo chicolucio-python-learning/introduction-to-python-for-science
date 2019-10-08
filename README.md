@@ -12,5 +12,5 @@ The author transformed the PDF in a book that can be found at [Amazon](https://w
 I have not read it yet, but the first chapters seen to be almost the same as the
 old PDF. However there are new chapters.
 
-The text and exercises of the old PDF version are available online at
+The text and exercises of the old PDF version are available online at the
 [NYU site](https://physics.nyu.edu/pine/pymanual/html/pymanMaster.html).
